@@ -30,12 +30,18 @@ Block reward
 
  
 # litegoldcoin.conf
-  - rpcuser=mgcuser
-  - rpcpassword=mgcpassword
+
+  - texindex=1
   - listen=1
-  - txindex=1
+  - rpcallowip=127.0.0.1
   - rpcport=32323
-  - rpcport=32324
+  - port=32324
+  - addnode=192.168.193.141
+  - addnode=138.197.30.135
+  - addnode=159.203.111.166
+  - rpcuser=LGCuser
+  - rpcpassword=LGCpassword
+
 
 
 
