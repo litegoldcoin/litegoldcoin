@@ -39,10 +39,9 @@ Block reward
   - addnode=192.168.193.141
   - addnode=138.197.30.135
   - addnode=159.203.111.166
+  - addnode=104.131.73.231
   - rpcuser=LGCuser
   - rpcpassword=LGCpassword
-
-
 
 
 **DEBUG_LOCKORDER**
