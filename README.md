@@ -9,7 +9,7 @@ http://litegoldcoin.net/
  - Algorithm : Scrypt
  - Block Interval : 1 minute (60 seconds)
  - Difficulty Retarget : Every block (using Kimoto's Gravity Well)
- - Total coins amount : 25,000,000 LGC
+ - Total coins amount : 5,000,000,000LGC
 Block reward 
  - Premine: First 10 block are 500,000,000 LGC 
  - Bonus reward for block 11 to 200,000 of 1000LGC
@@ -17,7 +17,7 @@ Block reward
  - Bonus reward for block 400,000 - 600,000 of 250LGC
  - Bonus reward for block 1,400,000 - 1,600,000 of 50 LGC
  - Subsidy is cut in half every 400,000 blocks starting at block 1600000
- - Premine : None
+
  
   
 ### Overview plz make litegoldcoind/litegoldcoin-cli/litegoldcoin-qt
