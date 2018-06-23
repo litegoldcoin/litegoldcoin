@@ -3,8 +3,9 @@
 ## What is LiteGoldCoin? 
 LiteGoldCoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and Litecoin, LiteGoldCoin currently employs a simplified variant of scrypt.
 
-http://litegoldcoin.net/
+https://www.litegoldcoin.net/
 
+ - Coin Name : LiteGoldCoin
  - Currency unit : LGC
  - Algorithm : Scrypt
  - Block Interval : 1 minute (60 seconds)
