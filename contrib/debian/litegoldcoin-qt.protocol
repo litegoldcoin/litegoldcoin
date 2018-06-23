@@ -1,0 +1,11 @@
+[Protocol]
+exec=litegoldcoin-qt '%u'
+protocol=litegoldcoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
