@@ -39,6 +39,8 @@ Block reward
   - port=32324
   - addnode=192.168.193.141
   - addnode=138.197.30.135
+  - addnode=199.192.16.129
+  - addnode=199.192.16.144
   - addnode=159.203.111.166
   - addnode=104.131.73.231
   - rpcuser=LGCuser
